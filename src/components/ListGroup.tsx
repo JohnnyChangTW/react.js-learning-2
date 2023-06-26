@@ -1,4 +1,4 @@
-// go to bootstrap.com -> docs -> components -> ListGroup to find template markup code for ListGroup
+// go to getbootstrap.com -> docs -> components -> ListGroup to find template markup code for ListGroup
 
 import { useState } from "react";
 
